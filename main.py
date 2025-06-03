@@ -39,6 +39,7 @@ import zipfile
 import shutil
 import ffmpeg
 
+
 # Initialize the bot
 bot = Client(
     "bot",
@@ -74,16 +75,16 @@ BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact"
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
-            InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/cyberseller999/saini-txt-direct"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/@CuteExon"),
+            InlineKeyboardButton(text="🛠️ Repo", url="https://t.me/SSC_JE_RRB_JEE_COMPETATION"),
         ],
     ]
 )
 
 # Image URLs for the random image feature
 image_urls = [
-    "https://tinypic.host/images/2025/02/07/IMG_20250207_224444_975.jpg",
-    "https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png",
+    "https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg",
+    "https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg",
     # Add more image URLs as needed
 ]
 
